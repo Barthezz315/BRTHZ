@@ -1,4 +1,5 @@
 body {
+body {
   font-family: Arial, sans-serif;
   background: linear-gradient(135deg, #1e1e1e, #2a2a2a);
   color: #fff;
@@ -7,7 +8,6 @@ body {
   text-align: center;
 }
 
-/* Header */
 header {
   background-color: rgba(0,0,0,0.6);
   padding: 40px 20px;
@@ -25,7 +25,6 @@ header p {
   color: #fff;
 }
 
-/* Social media */
 .social-icons {
   display: flex;
   flex-direction: column;
@@ -52,9 +51,9 @@ header p {
   text-decoration: underline;
 }
 
-/* Footer */
 footer {
   background-color: rgba(0,0,0,0.6);
   padding: 15px 0;
   margin-top: 50px;
 }
+

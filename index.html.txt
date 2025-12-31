@@ -31,5 +31,6 @@
     <p>© 2025 BRTHZ</p>
   </footer>
 
+  <script src="script.js"></script>
 </body>
 </html>
