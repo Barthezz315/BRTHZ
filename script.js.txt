@@ -1,5 +1,4 @@
-/* Gradientowe tło podobne do UDMG */
-body {
+ {
   font-family: Arial, sans-serif;
   background: linear-gradient(135deg, #1e1e1e, #2a2a2a);
   color: #fff;
@@ -59,3 +58,4 @@ footer {
   padding: 15px 0;
   margin-top: 50px;
 }
+
